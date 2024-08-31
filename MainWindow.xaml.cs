@@ -24,7 +24,7 @@ namespace WpfSnakeGame
         {
             {GridValue.Empty, Images.Empty },
             {GridValue.Snake, Images.Body },
-            {GridValue.Food, Images.Food }
+            {GridValue.Food, Images.Food } 
         };
 
         private readonly int rows = 15, columns = 15;
